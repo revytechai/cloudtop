@@ -1,0 +1,11 @@
+Model: 		 NVIDIA GeForce RTX 5070 Laptop GPU
+IRQ:   		 55
+GPU UUID: 	 GPU-46ad4ec0-4e45-fd9b-0ace-61bf9f36bc79
+Video BIOS: 	 98.06.3e.00.0a
+Bus Type: 	 PCIe
+DMA Size: 	 52 bits
+DMA Mask: 	 0xfffffffffffff
+Bus Location: 	 0000:c2:00.0
+Device Minor: 	 0
+GPU Firmware: 	 615.71.09
+GPU Excluded:	 No
